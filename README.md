@@ -18,7 +18,13 @@
 - **Email:** naresh.dharavath16@gmail.com  
 - **Location:** Hyderabad, India
 
-- ---
+  🔒 **Note:**  
+Some of my professional projects are private due to confidentiality.  
+However, I can discuss my **architecture design**, **approach**, and **implementation strategies** during interviews.
+
+
+
+⚡ Currently exploring advanced Microservices architecture and ServiceNow integrations.
 
 ### 📊 GitHub Stats
 ![Naresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nareshdharavath16&show_icons=true&theme=radical)
@@ -31,11 +37,5 @@
 
 ---
 
-🔒 **Note:**  
-Some of my professional projects are private due to confidentiality.  
-However, I can discuss my **architecture design**, **approach**, and **implementation strategies** during interviews.
 
-
-
-⚡ Currently exploring advanced Microservices architecture and ServiceNow integrations.
 
