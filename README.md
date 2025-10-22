@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Naresh Dharavath  
 
-<!--
-**nareshdharavath16/nareshdharavath16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Full Stack Developer | 3 Years of Experience  
 
-Here are some ideas to get you started:
+🚀 Skilled in:
+- **Backend:** Java, Spring Boot, Microservices, JPA, REST API  
+- **Frontend:** Angular, HTML, CSS, JavaScript  
+- **DevOps & Cloud:** AWS, Git, CI/CD, Docker (basic), Jenkins  
+- **Database:** MySQL  
+- **ServiceNow:** ITSM, ITIL, Catalog Items, Business Rules, Client Scripts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Projects:
+- **Qualifyde QJobs & QHire** – Developed from scratch using Spring Boot, Microservices, Angular, AWS, and Redis.  
+- Implemented authentication, caching, AWS deployment, and monitoring using Grafana.
+
+📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/nareshdharavath](www.linkedin.com/in/naresh-dharavath-4a961a229)  
+- **Email:** naresh.dharavath16@gmail.com  
+- **Location:** Hyderabad, India  
+
+⚡ Currently exploring advanced Microservices architecture and ServiceNow integrations.
+
