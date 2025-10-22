@@ -29,6 +29,13 @@
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nareshdharavath16&theme=radical)
 
+---
+
+🔒 **Note:**  
+Some of my professional projects are private due to confidentiality.  
+However, I can discuss my **architecture design**, **approach**, and **implementation strategies** during interviews.
+
+
 
 ⚡ Currently exploring advanced Microservices architecture and ServiceNow integrations.
 
