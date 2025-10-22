@@ -16,7 +16,19 @@
 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/nareshdharavath](www.linkedin.com/in/naresh-dharavath-4a961a229)  
 - **Email:** naresh.dharavath16@gmail.com  
-- **Location:** Hyderabad, India  
+- **Location:** Hyderabad, India
+
+- ---
+
+### 📊 GitHub Stats
+![Naresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nareshdharavath16&show_icons=true&theme=radical)
+
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nareshdharavath16&layout=compact&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nareshdharavath16&theme=radical)
+
 
 ⚡ Currently exploring advanced Microservices architecture and ServiceNow integrations.
 
